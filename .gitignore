@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Archives
+*.zip
+*.rar
+
+# Temporary files
+.DS_Store
+Thumbs.db
